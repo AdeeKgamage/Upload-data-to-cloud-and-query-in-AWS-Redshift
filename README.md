@@ -1,0 +1,2 @@
+# Upload-data-to-cloud-and-query-in-AWS-Redshift
+This repository explores the step-by-step process of uploading data to the AWS S3 bucket and subsequently analyzing it within the AWS Redshift cluster. This includes S3 bucket creation, Uploading a CSV to the S3 bucket, best practices to save money, AWS Redshift cluster creation, Load data to the Redshift cluster, SQL query processing, and data analysis.
